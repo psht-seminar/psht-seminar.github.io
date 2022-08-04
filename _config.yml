@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "Persistence, Sheaves, and Homotopy Theory Online Seminar"
+baseurl: ""
+sass:
+  sass_dir: _sass

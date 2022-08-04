@@ -1,0 +1,142 @@
+## Upcoming talks
+
+- TBA
+
+## 2022
+
+- [Jun: Biran and Lee](#talk8)
+- [May: Guillermou and Rolle](#talk7)
+- [Apr: Blumberg and Scoccola](#talk6)
+- [Mar: Schapira and Giunti](#talk5)
+- [Feb: Chachólski and Brown](#talk4)
+- [Jan: Lesnick and Ike](#talk3)
+
+## 2021
+- [Dec: Jardine and Zhang](#talk2)
+- [Nov: Polterovich and Botnan](#talk1)
+
+---
+
+&nbsp;
+&nbsp;
+
+
+## June 14th, 2022 <a name="talk8"></a>
+
+### Paul Biran (ETH Zürich, Switzerland)
+
+*Persistence K-theory*
+
+>  K-theory, in its classical form, associates to a triangulated category an abelian group called the K-group (or the Grothendieck group). Important invariants of various triangulated categories are known to factor through their K-groups. In this talk we will explain the foundations of persistence K-theory, which is an analogous theory for triangulated persistence categories. In particular we will introduce new persistence measurements coming from these K-groups, and new invariants coming from the combination of the persistence and triangulated structures. In the last part of the talk we will exemplify this new theory on the case of the persistence Fukaya category of Lagrangian submanifolds. In particular we will show how our invariants can distinguish between modules that can represent embedded Lagrangians and those who can represent only immersed ones. Based on joint work with Octav Cornea and Jun Zhang.
+
+### Darrick Lee (EPFL, Lausanne, Switzerland)
+
+*A Topological Approach to Signatures*
+
+>  The path signature is a characterization of paths initially developed by K. T. Chen to study the topology of loop spaces. This has recently been used to develop the foundations of rough paths in stochastic analysis, and provides a powerful feature map for sequential data in machine learning. We introduce a generalization of the path signature to mapping spaces, motivated by Chen's iterated integral cochain models, and show that it preserves many analytic and algebraic properties which makes it suitable for applications.
+
+## May 10th, 2022 <a name="talk7"></a>
+
+### Stéphane Guillermou (Institut Fourier, Grenoble, France)
+
+*The microsupport of sheaves is $\gamma$-coisotropic*
+
+> An important result of Kashiwara and Schapira in microlocal sheaf theory says that the microsupport of sheaves is coisotropic. Since a microsupport is a priori not smooth the meaning of coisotropic has to be precised. The definition of Kashiwara and Schapira asks that the "small" tangent cone at any point contains the symplectic orthogonal of the "big" tangent cone. Other definitions of coisotropic have been proposed recently by Usher and Viterbo ("$\gamma$-coisotropic") which are invariant by symplectic homeomorphism. We will review these notions and see that the microsupport is $\gamma$-coisotropic. This is Joint work with Claude Viterbo.
+
+### Alexander Rolle (TUM, Munich, Germany)
+
+*Functorial nerve theorems for persistence*
+
+>  The nerve theorem is a basic result of algebraic topology that plays a central role in computational and applied aspects of the subject. In applied topology, one is often interested in diagrams of covered spaces and corresponding diagrams of nerves; a functorial nerve theorem relates these diagrams. We describe a framework for proving functorial nerve theorems and show how one can use techniques from homotopy theory to prove a variety of these theorems. This is joint work with Ulrich Bauer, Michael Kerber, and Fabian Roll.
+
+## April 12th, 2022 <a name="talk6"></a>
+
+### Andrew Blumberg (Columbia University, New-York, USA)
+
+*Probabilistic stability theorems for topological data analysis*
+
+> The foundations of topological data analysis rest on stability theorems, which roughly speaking say that small perturbations of point clouds (finite metric spaces) lead to small perturbations of associated persistent topological invariants. In this talk, I will describe various extensions of these results to metric measure spaces, describing joint work with Mike Mandell and Mike Lesnick.
+
+### Luis Scoccola (Northeastern University, USA)
+
+*Bottleneck stability for multigraded Betti numbers and Hilbert functions*
+
+> Unlike one-parameter persistence modules, for which we have the barcode, persistence modules with two or more parameters do not admit a complete discrete invariant, and thus incomplete invariants must be used to study the structure of such modules in practice. The Hilbert function and the multigraded Betti numbers are among the simplest such incomplete invariants, and, although these invariants are already being used in applications, it is a priori unclear whether they satisfy a stability result analogous to the stability of the one-parameter barcode. Stability results are essential for the interpretability and consistency of practical methods. I will present joint work with Steve Oudot in which we prove bottleneck stability results for multigraded Betti numbers and for the Hilbert function. I will put this work into the broad context of additive invariants of persistence modules, and I will discuss connections to recent work of Blanchette, Brüstle, and Hanson on invariants coming from relative homological algebra, to the signed barcodes of Botnan, Oppermann, and Oudot, and to the generalized persistence diagrams of Patel.
+
+## March 8th, 2022 <a name="talk5"></a>
+
+### Pierre Schapira (Sorbonne Université, Paris)
+
+*Thickening of the diagonal and interleaving distance*
+
+> On a topological space X, a thickening kernel is a presheaf on R with values in the monoidal category of kernels on X. To such a thickening kernel, one naturally associates an interleaving distance on the derived category of sheaves and study its properties (stability, Lipschitz). We prove that a thickening kernel exists in two different situations. First, when X is a manifold and one is given a non-positive Hamiltonian isotopy on the cotangent bundle. Second, when X is a metric space satisfying suitable properties, in particular when X is a Riemannian manifold with strictly positive positive convexity radius. We prove that in this case, the two thickening kernels, one associated with the distance, the other with the geodesic flow, coincide. This is joint work with François Petit.
+
+### Barbara Giunti (TU Graz)
+
+*Amplitudes in persistence theory*
+
+> In persistence theory, one starts with data and then build a parameterized object from them, which is then analysed via some invariants, typically retrieved using homology. This pipeline is stable in 1-parameter persistence, where the invariants are all given by the barcode. Since there is no proper generalization of barcode in the multiparamenter case, the choice of the invariants - which is strictly related to the choice of the distances used to ensure the stability of the persistence pipeline - depends on the specific information one wants to extract from the data. Different invariants may greatly vary their behaviour and be stable only under very different distances. With the goal of addressing this problem, we introduce amplitudes, which are invariants that arise from assigning a non-negative real number to each persistence module, and are monotone and subadditive in an appropriate sense. There are different ways to associate a distance to an amplitude, which is useful in practical applications. Indeed, this gives us the possibility to define metrics based on the wanted invariants and fine-tune the stability results. Our framework is very comprehensive, as many different invariants that have been introduced in the Topological Data Analysis literature are examples of amplitudes. Furthermore, many known distances for multiparameter persistence can be shown to be distances from amplitudes. In addition, this framework allows us to compare different distances and can be used to prove new stability results.
+
+## February 8th, 2022 <a name="talk4"></a>
+
+### Wojciech Chachólski (KTH, Stockholm)
+
+*Realisations of Posets and tameness*
+
+> My presentation is based on an article with the same title coauthored with A. Jin and F. Tombari (arXiv:2112.12209). I will present a construction called realisation, transforming posets into posets which are particularly suitable for persistence methods. Intuitively the realisation associates a continuous structure to a locally discrete poset by filling in empty spaces. For example the realisation of $\mathbf{N}^r$ is $[0,\infty)^r$. Our key results can be summarised as: realisations share key features with upper semilattices, which explains why they fit well with persistence. This is unexpected as for example the realisation of an upper semilattice may fail to be an upper semilattice. I will illustrate for example that realisations and upper semilattics share key homological properties. For instance the homological dimension (the length of the minimal free resolution) and Betti numbers of tame vector space valued functors indexed by both realisations and upper semilattices can be calculated using Koszul complexes. Consequently, calculating these invariants for functors indexed by both types of posets can be done directly, avoiding constructing explicit resolutions.
+
+### Adam Brown (IST Austria)
+
+*Computing Minimal Injective Resolutions*
+
+>  Efficient algorithms for computing classical operations on sheaves are necessary to further develop applications of derived sheaf theory in topological data analysis. Injective resolutions, a fundamental `first-step’ in this pipeline, are used to study sheaves from the derived perspective, i.e. as objects in a derived category. In this talk we will discuss methods for computing injective resolutions of sheaves on simplicial complexes. We will outline the existence and uniqueness of minimal injective resolutions, an algorithm for their construction, and (time permitting) give an asymptotically tight bound on the computational complexity of this algorithm. This talk is based on joint work with Ondrej Draganov.
+
+## January 11th, 2022 <a name="talk3"></a>
+
+### Michael Lesnick (SUNY Albany)
+
+*$\ell^p$-Metrics on Multiparameter Persistence Modules*
+
+> Motivated both by theoretical and practical considerations in topological data analysis, we generalize the $p$-Wasserstein distance on barcodes to multiparameter persistence modules. For each $p \in [1,\infty]$, we in fact introduce two such generalizations $d_I^p$ and $d_M^p$, such that $d_I^\infty$ equals the interleaving distance and $d_M^\infty$ equals the matching distance. Finally, we show that on 1- or 2-parameter persistence modules over prime fields, $d_I^p$ is the universal (i.e., largest) metric satisfying a natural stability property; this result extends a stability theorem of Skraba and Turner for the $p$-Wasserstein distance on barcodes in the 1-parameter case, and is also a close analogue of a universality property for the interleaving distance given by the second author. We also show that $d_M^p \leq d_I^p$ for all $p \in [1,\infty]$, extending an observation of Landi in the $p = \infty$ case. We observe that the distances $d_M^p$ can be efficiently approximated. In a forthcoming paper, we apply some of these results to study the stability of (2-parameter) multicover.
+
+### Yuichi Ike (University of Tokyo)
+
+*Interleaving distance for sheaves and displacement energy in symplectic geometry*
+
+> I will talk about some interactions among the microlocal theory of sheaves, persistence modules, and symplectic geometry. The microlocal theory of sheaves has been applied to symplectic geometry after the pioneering work of Tamarkin. Motivated by the work of Kashiwara and Schapira, we introduce a persistence-like distance on the Tamarkin sheaf category and prove a stability result for a Hamiltonian deformation of sheaves. Using this result, we give a sheaf-theoretic method to give a lower bound of the displacement energy of compact subsets of a cotangent bundle, which is a quantitative generalization of Tamarkin's non-displaceability theorem. Joint work with Tomohiro Asano.
+
+
+## December 14th, 2021 <a name="talk2"></a>
+
+### Rick Jardine (Western University, Canada)
+
+*UMAP for the working mathematician*
+
+> The Healy-McInnes UMAP algorithm is a highly successful clustering tool that involves interesting ideas from mathematics and data science:
+> 1. Spivak's theory of extended pseudo metric spaces (ep-metric spaces)
+> 2. TDA constructions in ep-metric spaces
+> 3. weighted graphs
+> 4. classical dimension reduction
+> 5. graph optimization: fuzzy sets, cross entropy
+>
+>I will explain this algorithm from a mathematical point of view.
+
+### Jun Zhang (Université de Montréal)
+
+*Triangulated persistence category*
+
+> In this talk, we will introduce a new algebraic structure called triangulated persistence category (TPC). A TPC combines the persistence module and the classical triangulation structure so that a meaningful measurement, via cone decomposition, can be defined on the set of objects. We will also elaborate on various examples of TPC that come from algebra, topology, and symplectic geometry. Finally, we will investigate the Grothendieck group of a TPC and explain several unexpected properties. This talk is based on joint work with Paul Biran and Octav Cornea.
+
+## November 9th, 2021 <a name="talk1"></a>
+
+### Léonid Polterovich (Tel Aviv University)
+
+*Persistence barcodes in symplectic topology*
+
+> I shall review some applications of the theory of persistence modules in symplectic topology.
+
+### Magnus Botnan (VU, Netherlands)
+
+*Signed barcodes for multiparameter persistence*
+
+> Moving from persistent homology in one parameter to multiparameter persistence comes at a significant increase in complexity. In particular, the notion of a barcode does not generalize straightforwardly. However, in this talk, I will show how it is possible to assign a unique barcode to a multiparameter persistence module if one is willing to take Z-linear combinations of intervals. The theoretical discussion will be complemented by numerical experiments. This is joint work with Steffen Oppermann and Steve Oudot.

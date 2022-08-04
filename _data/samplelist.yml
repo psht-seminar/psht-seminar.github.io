@@ -1,0 +1,8 @@
+docs_list_title: Sections
+docs:
+
+- title: About
+  url: index.html
+
+- title: Talks and abstracts
+  url: program.html
