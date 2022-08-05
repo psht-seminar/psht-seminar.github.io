@@ -3,10 +3,8 @@ docs:
 
 - title: About
   description: About
-  tagline: About
   url: index.html
 
 - title: Abstracts
   description: Abstracts
-  tagline: Abstracts
   url: program.html
