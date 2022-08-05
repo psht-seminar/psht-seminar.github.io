@@ -1,19 +1,16 @@
-## Upcoming talks
+## 2022-2023
 
 - TBA
 
-## 2022
-
-- [Jun: Biran and Lee](#talk8)
-- [May: Guillermou and Rolle](#talk7)
-- [Apr: Blumberg and Scoccola](#talk6)
-- [Mar: Schapira and Giunti](#talk5)
-- [Feb: Chachólski and Brown](#talk4)
-- [Jan: Lesnick and Ike](#talk3)
-
-## 2021
-- [Dec: Jardine and Zhang](#talk2)
-- [Nov: Polterovich and Botnan](#talk1)
+## 2021--2022
+- [Jun 2022: Paul Biran and Darrick Lee](#talk-1-8)
+- [May 2022: Stéphane Guillermou and Alexander Rolle](#talk-1-7)
+- [Apr 2022: Andrew Blumberg and Luis Scoccola](#talk-1-6)
+- [Mar 2022: Pierre Schapira and Barbara Giunti](#talk-1-5)
+- [Feb 2022: Wojciech Chachólski and Adam Brown](#talk-1-4)
+- [Jan 2022: Michael Lesnick and Yuichi Ike](#talk-1-3)
+- [Dec 2021: Rick Jardine and Jun Zhang](#talk-1-2)
+- [Nov 2021: Léonid Polterovich and Magnus Botnan](#talk-1-1)
 
 ---
 
@@ -21,7 +18,7 @@
 &nbsp;
 
 
-## June 14th, 2022 <a name="talk8"></a>
+## June 14th, 2022 <a name="talk-1-8"></a>
 
 ### Paul Biran (ETH Zürich, Switzerland)
 
@@ -35,7 +32,7 @@
 
 >  The path signature is a characterization of paths initially developed by K. T. Chen to study the topology of loop spaces. This has recently been used to develop the foundations of rough paths in stochastic analysis, and provides a powerful feature map for sequential data in machine learning. We introduce a generalization of the path signature to mapping spaces, motivated by Chen's iterated integral cochain models, and show that it preserves many analytic and algebraic properties which makes it suitable for applications.
 
-## May 10th, 2022 <a name="talk7"></a>
+## May 10th, 2022 <a name="talk-1-7"></a>
 
 ### Stéphane Guillermou (Institut Fourier, Grenoble, France)
 
@@ -49,7 +46,7 @@
 
 >  The nerve theorem is a basic result of algebraic topology that plays a central role in computational and applied aspects of the subject. In applied topology, one is often interested in diagrams of covered spaces and corresponding diagrams of nerves; a functorial nerve theorem relates these diagrams. We describe a framework for proving functorial nerve theorems and show how one can use techniques from homotopy theory to prove a variety of these theorems. This is joint work with Ulrich Bauer, Michael Kerber, and Fabian Roll.
 
-## April 12th, 2022 <a name="talk6"></a>
+## April 12th, 2022 <a name="talk-1-6"></a>
 
 ### Andrew Blumberg (Columbia University, New-York, USA)
 
@@ -63,7 +60,7 @@
 
 > Unlike one-parameter persistence modules, for which we have the barcode, persistence modules with two or more parameters do not admit a complete discrete invariant, and thus incomplete invariants must be used to study the structure of such modules in practice. The Hilbert function and the multigraded Betti numbers are among the simplest such incomplete invariants, and, although these invariants are already being used in applications, it is a priori unclear whether they satisfy a stability result analogous to the stability of the one-parameter barcode. Stability results are essential for the interpretability and consistency of practical methods. I will present joint work with Steve Oudot in which we prove bottleneck stability results for multigraded Betti numbers and for the Hilbert function. I will put this work into the broad context of additive invariants of persistence modules, and I will discuss connections to recent work of Blanchette, Brüstle, and Hanson on invariants coming from relative homological algebra, to the signed barcodes of Botnan, Oppermann, and Oudot, and to the generalized persistence diagrams of Patel.
 
-## March 8th, 2022 <a name="talk5"></a>
+## March 8th, 2022 <a name="talk-1-5"></a>
 
 ### Pierre Schapira (Sorbonne Université, Paris)
 
@@ -77,7 +74,7 @@
 
 > In persistence theory, one starts with data and then build a parameterized object from them, which is then analysed via some invariants, typically retrieved using homology. This pipeline is stable in 1-parameter persistence, where the invariants are all given by the barcode. Since there is no proper generalization of barcode in the multiparamenter case, the choice of the invariants - which is strictly related to the choice of the distances used to ensure the stability of the persistence pipeline - depends on the specific information one wants to extract from the data. Different invariants may greatly vary their behaviour and be stable only under very different distances. With the goal of addressing this problem, we introduce amplitudes, which are invariants that arise from assigning a non-negative real number to each persistence module, and are monotone and subadditive in an appropriate sense. There are different ways to associate a distance to an amplitude, which is useful in practical applications. Indeed, this gives us the possibility to define metrics based on the wanted invariants and fine-tune the stability results. Our framework is very comprehensive, as many different invariants that have been introduced in the Topological Data Analysis literature are examples of amplitudes. Furthermore, many known distances for multiparameter persistence can be shown to be distances from amplitudes. In addition, this framework allows us to compare different distances and can be used to prove new stability results.
 
-## February 8th, 2022 <a name="talk4"></a>
+## February 8th, 2022 <a name="talk-1-4"></a>
 
 ### Wojciech Chachólski (KTH, Stockholm)
 
@@ -91,7 +88,7 @@
 
 >  Efficient algorithms for computing classical operations on sheaves are necessary to further develop applications of derived sheaf theory in topological data analysis. Injective resolutions, a fundamental `first-step’ in this pipeline, are used to study sheaves from the derived perspective, i.e. as objects in a derived category. In this talk we will discuss methods for computing injective resolutions of sheaves on simplicial complexes. We will outline the existence and uniqueness of minimal injective resolutions, an algorithm for their construction, and (time permitting) give an asymptotically tight bound on the computational complexity of this algorithm. This talk is based on joint work with Ondrej Draganov.
 
-## January 11th, 2022 <a name="talk3"></a>
+## January 11th, 2022 <a name="talk-1-3"></a>
 
 ### Michael Lesnick (SUNY Albany)
 
@@ -106,7 +103,7 @@
 > I will talk about some interactions among the microlocal theory of sheaves, persistence modules, and symplectic geometry. The microlocal theory of sheaves has been applied to symplectic geometry after the pioneering work of Tamarkin. Motivated by the work of Kashiwara and Schapira, we introduce a persistence-like distance on the Tamarkin sheaf category and prove a stability result for a Hamiltonian deformation of sheaves. Using this result, we give a sheaf-theoretic method to give a lower bound of the displacement energy of compact subsets of a cotangent bundle, which is a quantitative generalization of Tamarkin's non-displaceability theorem. Joint work with Tomohiro Asano.
 
 
-## December 14th, 2021 <a name="talk2"></a>
+## December 14th, 2021 <a name="talk-1-2"></a>
 
 ### Rick Jardine (Western University, Canada)
 
@@ -127,7 +124,7 @@
 
 > In this talk, we will introduce a new algebraic structure called triangulated persistence category (TPC). A TPC combines the persistence module and the classical triangulation structure so that a meaningful measurement, via cone decomposition, can be defined on the set of objects. We will also elaborate on various examples of TPC that come from algebra, topology, and symplectic geometry. Finally, we will investigate the Grothendieck group of a TPC and explain several unexpected properties. This talk is based on joint work with Paul Biran and Octav Cornea.
 
-## November 9th, 2021 <a name="talk1"></a>
+## November 9th, 2021 <a name="talk-1-1"></a>
 
 ### Léonid Polterovich (Tel Aviv University)
 
