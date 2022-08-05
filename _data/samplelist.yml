@@ -2,7 +2,9 @@ docs_list_title: Sections
 docs:
 
 - title: About
+  tagline: About
   url: index.html
 
-- title: Talks and abstracts
+- title: Abstracts
+  tagline: Abstracts
   url: program.html
