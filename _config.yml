@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: "Persistence, Sheaves, and Homotopy Theory Online Seminar"
+description: "PSHT Seminar"
 tagline: "PSHT Seminar"
-baseurl: ""
 sass:
   sass_dir: _sass
