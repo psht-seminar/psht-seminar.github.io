@@ -5,7 +5,7 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 ### Upcoming talks
 
-- TBA
+- October 11th, 2022: Martina Scolamiero and Lukas Waas
 
 
 ### How to attend
