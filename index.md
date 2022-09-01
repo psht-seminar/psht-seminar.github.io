@@ -1,6 +1,6 @@
 ### Aim
 The theory of persistence was developed in the early 2000’s as an attempt to define topological descriptors of datasets which are stable to noise.
-The aim of this seminar is to gather together the mathematical communities who have a common interest in the theoretical aspects of persistence, such as its connections to sheaf theory, homotopy theory, symplectic geometry, and relative homological algebra.
+The aim of this seminar is to gather together the mathematical communities who have a common interest in the theoretical aspects of persistence, such as its connections to sheaf theory, homotopy theory, symplectic geometry, representation theory, and relative homological algebra.
 
 
 ### Upcoming talks
