@@ -14,7 +14,7 @@ Each edition consists of two 40 minute talks, separated by a 10 minute break.
 
 
 ### How to attend
-To receive the Zoom links and reminders about the talks, please [join our mailing list](https://groups.google.com/g/psht-seminar).
+To receive the Zoom links as well as reminders about the talks, please [join our mailing list](https://groups.google.com/g/psht-seminar).
 
 
 ### Contact
