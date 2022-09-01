@@ -1,6 +1,6 @@
 ## 2022--2023
 
-- TBA
+- [Oct 2022: Martina Scolamiero and Lukas Waas](#talk-2-1)
 
 ## 2021--2022
 - [Jun 2022: Paul Biran and Darrick Lee](#talk-1-8)
@@ -16,6 +16,19 @@
 
 &nbsp;
 &nbsp;
+
+## October 11th, 2022 <a name="talk-2-1"></a>
+
+### Martina Scolamiero (KTH, Stockholm, Sweden)
+
+*p-Wasserstein- stable topological features*
+
+
+>In the hierarchical stabilisation framework, topological invariants for persistence (e.g the stable rank) are constructed starting from metrics to compare persistence modules. Such metrics can be defined axiomatically at the algebraic level and include parametrised families such as p-Wasserstein distances and distances induced by so called contours. After highlighting the different nature of these types of distances, we will discuss a way to combine them. The focus of the talk will then be on the computation and the properties of the stable ranks built from these new combined distances. 
+
+### Lukas Waas (Heidelberg University, Germany)
+
+*TBA*
 
 
 ## June 14th, 2022 <a name="talk-1-8"></a>
