@@ -28,7 +28,9 @@
 
 ### Lukas Waas (Heidelberg University, Germany)
 
-*TBA*
+*From samples to persistent stratified homotopy types*
+
+>For many applications, both of theoretical as well as of applied nature, homotopy type can be too coarse of a discriminating invariant. For example, while closed one-manifolds and (smooth) surfaces are entirely classified by their homology and thus by their homotopy type, even in dimension one this is not the case for singular spaces. I will begin this talk with a short introduction to stratified homotopy theory, a version of homotopy theory tailored to deal with spaces with singularities. I will then explain how stratified homotopy theory can be used in topological data analysis to obtain finer invariants than persistent homology which are specifically adapted to detect and investigate singular data sets.
 
 
 ## June 14th, 2022 <a name="talk-1-8"></a>
