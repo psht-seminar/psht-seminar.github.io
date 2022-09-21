@@ -24,6 +24,6 @@ If you have any suggestions or are interested in giving a talk, please contact t
 
 ### Organizers
 - [Nicolas Berkouk](https://nberkouk.github.io/index.html) (EPFL, Lausanne)
-- Damien Calaque (Institut Alexandre Grothendieck, Université de Montpellier) (Jan.--June 2022)
+- Damien Calaque (Institut Alexandre Grothendieck, Université de Montpellier) (Until June 2022)
 - [François Petit](https://fpetit.org/) (CRESS, Paris)
-- [Luis Scoccola](https://luisscoccola.github.io) (Northeastern University, Boston) (Aug. 2022--present)
+- [Luis Scoccola](https://luisscoccola.github.io) (Northeastern University, Boston) (From Aug. 2022)
