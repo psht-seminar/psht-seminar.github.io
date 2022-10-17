@@ -1,5 +1,7 @@
 ## 2022--2023
 
+- Dec 2022: Claudia Landi and Benedikt Fluhr
+- Nov 2022: Ezra Miller and Benjamin Blanchette
 - [Oct 2022: Martina Scolamiero and Lukas Waas](#talk-2-1)
 
 ## 2021--2022

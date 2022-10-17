@@ -5,8 +5,8 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 ### Upcoming talks
 
-- October 11th, 2022: Martina Scolamiero and Lukas Waas
 - November 8th, 2022: Ezra Miller and Benjamin Blanchette
+- December 13th, 2022: Claudia Landi and Benedikt Fluhr
 
 
 ### Format
