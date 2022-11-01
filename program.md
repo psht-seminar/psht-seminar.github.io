@@ -22,7 +22,7 @@
 
 ## November 8th, 2022 <a name="talk-2-2"></a>
 
-### Ezra Miller (Duke University)
+### Ezra Miller (Duke University, USA)
 
 *Concrete representatives for multiparameter derived sheaves*
 
@@ -49,7 +49,7 @@ extract indicator resolutions algorithmically and produce data
 structures, by way of a syzygy theorem for poset modules.
 
 
-### Benjamin Blanchette (Université de Sherbrooke)
+### Benjamin Blanchette (Université de Sherbrooke, Canada)
 
 *Bounding lengths of relative resolutions of persistence modules*
 
