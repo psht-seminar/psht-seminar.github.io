@@ -1,7 +1,7 @@
 ## 2022--2023
 
 - Dec 2022: Claudia Landi and Benedikt Fluhr
-- Nov 2022: Ezra Miller and Benjamin Blanchette
+- [Nov 2022: Ezra Miller and Benjamin Blanchette](#talk-2-2)
 - [Oct 2022: Martina Scolamiero and Lukas Waas](#talk-2-1)
 
 ## 2021--2022
@@ -18,6 +18,44 @@
 
 &nbsp;
 &nbsp;
+
+
+## November 8th, 2022 <a name="talk-2-2"></a>
+
+### Ezra Miller (Duke University)
+
+*Concrete representatives for multiparameter derived sheaves*
+
+>Persistent homology with multiple real parameters can be phrased
+in more or less equivalent ways in terms of multigraded modules,
+or sheaves, or functors, or derived categories.  All of these
+descriptions have in common an underlying partially ordered set
+indexing a family of vector spaces, and this family is
+interpreted under increasing layers of abstraction.  The simplest
+objects at any level of abstraction are the "indicator" objects,
+which place a single copy of the ground field at every point of
+an interval (an intersection of an upset with a downset) in the
+underlying poset.  Taking the cue from ordinary persistence,
+where there is just one real parameter, the theory of real
+multipersistence has in large part revolved around relating
+arbitrary persistent homology as closely as possible to indicator
+objects, particularly where algorithmic computation is concerned.
+To that end, effective methods demand concrete representatives of
+derived sheaves and stratifications of their supports.  Kashiwara
+and Schapira conjectured that derived sheaves in principle
+possess such concrete representatives and stratifications.  The
+goal here is to prove their conjectures, in a manner designed to
+extract indicator resolutions algorithmically and produce data
+structures, by way of a syzygy theorem for poset modules.
+
+
+### Benjamin Blanchette (Université de Sherbrooke)
+
+*Bounding lengths of relative resolutions of persistence modules*
+
+>We start by going over a homological approach to approximating persistence modules over wild posets by a controlled set of indecomposable modules, then present results as well as work in progress related to bounding resolution length for various such families including intervals, hooks, single sourced, upsets and all spreads.
+
+
 
 ## October 11th, 2022 <a name="talk-2-1"></a>
 
