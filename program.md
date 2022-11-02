@@ -1,5 +1,6 @@
 ## 2022--2023
 
+- Jan 2023: Justin Curry and Abigail Hickok 
 - Dec 2022: Claudia Landi and Benedikt Fluhr
 - [Nov 2022: Ezra Miller and Benjamin Blanchette](#talk-2-2)
 - [Oct 2022: Martina Scolamiero and Lukas Waas](#talk-2-1)

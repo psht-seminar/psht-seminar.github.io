@@ -7,6 +7,7 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 - November 8th, 2022: Ezra Miller and Benjamin Blanchette
 - December 13th, 2022: Claudia Landi and Benedikt Fluhr
+- January 10th, 2023: Justin Curry and Abigail Hickok 
 
 
 ### Format
