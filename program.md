@@ -1,7 +1,7 @@
 ## 2022--2023
 
 - Jan 2023: Justin Curry and Abigail Hickok 
-- Dec 2022: Claudia Landi and Benedikt Fluhr
+- [Dec 2022: Claudia Landi and Benedikt Fluhr](#talk-2-3)
 - [Nov 2022: Ezra Miller and Benjamin Blanchette](#talk-2-2)
 - [Oct 2022: Martina Scolamiero and Lukas Waas](#talk-2-1)
 
@@ -19,6 +19,30 @@
 
 &nbsp;
 &nbsp;
+
+## December 8th, 2022 <a name="talk-2-3"></a>
+
+### Claudia Landi (Università di Modena e Reggio Emilia, Italy)
+
+*Morse inequalities for the Koszul complex of multi-persistence*
+
+>In this talk, I will show how to derive inequalities involving, on the one hand, the homological Morse numbers of a filtered cell complex, and, on the other hand, the multi-graded Betti numbers of the multi-parameter persistence modules of such filtrations. Here, the homological Morse numbers of a filtration are defined in terms of the relative homology of nested filtration pieces and capture the minimal possible number of critical cells in any gradient vector field consistent with the filtration. We will first obtain strong and weak Morse inequalities involving the above quantities. Then we will improve the weak inequalities achieving a sharp lower bound for the homological Morse numbers. The main tool is the Mayer-Vietoris spectral sequence. Finally, we will see a tight upper bound for the minimal number of critical cells, expressed again in terms of multi-graded Betti numbers.
+
+### Benedikt Fluhr (Technical University of Munich, Germany)
+
+*Categorification of (Extended) Persistence Diagrams*
+
+>We demonstrate how the lack of additivity of the rank invariant
+restrains us from adopting tried-and-true approaches from algebraic
+topology to persistence theory at the example of a pointwise
+Mayer–Vietoris sequence in persistent homology. Then we explain how
+persistence diagrams can be obtained as a universal additive invariant
+of relative sublevel set cohomology. Finally, we return to our
+motivating example from the beginning and we compute a persistence
+diagram by using a Mayer–Vietoris sequence in relative sublevel set
+cohomology. This is joint work with Ulrich Bauer (arXiv:2205.15275).
+
+
 
 
 ## November 8th, 2022 <a name="talk-2-2"></a>
