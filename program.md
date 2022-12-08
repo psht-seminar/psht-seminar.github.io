@@ -20,7 +20,7 @@
 &nbsp;
 &nbsp;
 
-## December 8th, 2022 <a name="talk-2-3"></a>
+## December 13th, 2022 <a name="talk-2-3"></a>
 
 ### Claudia Landi (Università di Modena e Reggio Emilia, Italy)
 
