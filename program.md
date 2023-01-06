@@ -24,7 +24,7 @@
 
 ### Justin Curry (University at Albany SUNY, USA)
 
-*Semi-ring and Cosheaf Models for Space Networking*
+*Algebraic and Geometric Models for Space Networking*
 
 >In this talk I will describe recent and ongoing work dedicated to developing scalable autonomous routing protocols for a future solar system wide internet. At the heart of the talk will be a description of a new coordinate system (based on cosheaves and persistence) for time-varying graphs. In this new coordinate system, we can describe distances between various space networking scenarios, as well as model routing (with propagation delay) using matrix multiplication in a modified coefficient system valued in semi-rings.  To demonstrate these models in practice, we use simulations of Earth-Moon-Mars systems generated in SOAP (Satellite Orbital Analysis Program) ranging from 10s to 100s of nodes in size. These simulations are part of a growing codebase being developed by SUNY Albany and NASA Glenn Reasearch Center under the TIMAEUS project.
 
