@@ -1,5 +1,6 @@
 ## 2022--2023
 
+- Feb 2023: Ulrich Bauer and Vadim Lebovici
 - [Jan 2023: Justin Curry and Abigail Hickok ](#talk-2-4)
 - [Dec 2022: Claudia Landi and Benedikt Fluhr](#talk-2-3)
 - [Nov 2022: Ezra Miller and Benjamin Blanchette](#talk-2-2)
