@@ -31,7 +31,10 @@
 
 ### Abigail Hickok (University of California, Los Angeles, USA)
 
-*TBA*
+*Persistence Diagram Bundles: A multidimensional generalization of vineyards*
+
+>It is an active area of research to develop new methods for analyzing how the topology of a data set changes as multiple parameters vary. For example, if a point cloud evolves over time, then one might be interested in using time as a second parameter. When there are only two parameters (e.g., a scale parameter and time), one can compute a "vineyard," which encodes how persistent homology (PH) changes over time. However, vineyards cannot be used when there are more than two parameters. For example, in many time-evolving point clouds, there are additional system parameters controlling the coordinates of the points, and distinct topological features may arise for different system parameters. Generally, one cannot use multiparameter PH, either, because the filtered complexes constructed from the point clouds at different times and different system parameters do not form a multifiltration. In recent work, I generalized the concept of a vineyard to a "persistence diagram (PD) bundle," in which a set of filtered complexes is parameterized by an arbitrary topological space. In this talk, I'll discuss what a PD bundle is, talk about an algorithm for efficiently computing piecewise-linear PD bundles, and show that PD bundles can exhibit "monodromy," unlike vineyards. I'll also talk about a connection to cellular sheaves.
+
 
 ## December 13th, 2022 <a name="talk-2-3"></a>
 
