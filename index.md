@@ -5,13 +5,12 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 ### Upcoming talks
 
-- January 10th, 2023: Justin Curry and Abigail Hickok 
 - February 14th, 2023: Ulrich Bauer and Vadim Lebovici
 
 
 ### Format
 We meet the second Tuesday of each month, from *3pm to 4:30pm CET*.
-Each edition consists of two 40 minute talks, separated by a 10 minute break.
+Each edition consists of two 40 minute talks with 5 minutes for questions after each talk.
 
 
 ### How to attend
