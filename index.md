@@ -15,6 +15,7 @@ Each edition consists of two 40 minute talks with 5 minutes for questions after 
 
 ### How to attend
 To receive the Zoom links as well as reminders about the talks, please [join the seminar's mailing list](https://groups.google.com/g/psht-seminar).
+For information about joining google groups, and in particular doing so without a gmail address, see [here](https://support.google.com/groups/answer/1067205).
 
 
 ### Contact
