@@ -3,7 +3,7 @@ The theory of persistence was developed in the early 2000’s as an attempt to d
 The aim of this seminar is to gather together the mathematical communities who have a common interest in the theoretical aspects of persistence, such as its connections to sheaf theory, homotopy theory, symplectic geometry, representation theory, and relative homological algebra.
 
 
-### Upcoming talks
+### Upcoming
 
 - February 14th, 2023: Ulrich Bauer and Vadim Lebovici
 
