@@ -1,6 +1,6 @@
 ## 2022--2023
 
-- Feb 2023: Ulrich Bauer and Vadim Lebovici
+- [Feb 2023: Ulrich Bauer and Vadim Lebovici](#talk-2-5)
 - [Jan 2023: Justin Curry and Abigail Hickok ](#talk-2-4)
 - [Dec 2022: Claudia Landi and Benedikt Fluhr](#talk-2-3)
 - [Nov 2022: Ezra Miller and Benjamin Blanchette](#talk-2-2)
@@ -21,7 +21,20 @@
 &nbsp;
 &nbsp;
 
-## January 10th, 2022 <a name="talk-2-4"></a>
+## February 14th, 2023 <a name="talk-2-4"></a>
+
+### Ulrich Bauer (Technical University of Munich, Germany)
+
+*TBA*
+
+### Vadim Lebovici (Université Paris-Sud, France)
+
+*Hybrid transforms of constructible functions*
+
+>Euler calculus techniques — integration of constructible functions with respect to the Euler characteristic — have led to important advances in topological data analysis. One reason is that constructible functions naturally associated to multi-parameter persistent modules stand as simple, informative and well-behaved invariants of these objects. In this talk, I will introduce integral transforms combining Lebesgue integration and Euler calculus for constructible functions. I will focus on two examples. First, the Euler-Laplace transform, which is a satisfactory generalisation of Govc and Hepworth’s persistent magnitude to multi-parameter persistent modules. Second, the Euler-Fourier transform, which is injective on a subset of constructible functions and paves the way for a hybrid Fourier theory.
+
+
+## January 10th, 2023 <a name="talk-2-4"></a>
 
 ### Justin Curry (University at Albany SUNY, USA)
 
