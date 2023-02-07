@@ -28,20 +28,19 @@
 *Indecomposables in multiparameter persistence*
 
 >I will discuss various aspects of multi-parameter persistence related to representation theory and decompositions into indecomposable summands, based on joint work with Magnus Botnan, Steffen Oppermann, Johan Steen, Benedikt Fluhr, and Luis Scoccola.
-
+>
 >A classification of indecomposables is infeasible; the category of two-parameter persistence modules has wild representation type. We show [1] that this is still the case if the structure maps in one parameter direction are epimorphisms, a property that is commonly satisfied by degree 0 persistent homology and related to filtered hierarchical clustering.
-
+>
 >Furthermore, we show [2] that indecomposable persistence modules are dense in the interleaving distance, and that being nearly-indecomposable is a generic property of persistence modules.
-
+>
 >On the other hand, the two-parameter persistence modules arising from interleaved sets (relative interleaved set cohomology) have a very well-behaved structure [3] that is encoded as a complete invariant in the extended persistence diagram. This perspective reveals some important but largely overlooked insights about persistent homology; in particular, it highlights a strong reason for working at the level of chain complexes, in a derived category [4].
-
-
+>
 >[1] Bauer, U., Botnan, M. B., Oppermann, S., & Steen, J. (2020). Cotorsion torsion triples and the representation theory of filtered hierarchical clustering. Advances in Mathematics, 369, 107171.
-
+>
 >[2] Bauer, U., & Scoccola, L. (2022). Generic Two-Parameter Persistence Modules are Nearly Indecomposable. arXiv preprint arXiv:2211.15306.
-
+>
 >[3] Bauer, U., Botnan, M. B., & Fluhr, B. (2021). Structure and Interleavings of Relative Interlevel Set Cohomology. arXiv preprint arXiv:2108.09298.
-
+>
 >[4] Bauer, U., & Fluhr, B. (2022). Categorification of Extended Persistence Diagrams. arXiv preprint arXiv:2205.15275.
 
 ### Vadim Lebovici (Université Paris-Sud, France)
