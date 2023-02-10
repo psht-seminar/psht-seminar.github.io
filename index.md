@@ -6,6 +6,7 @@ The aim of this seminar is to gather together the mathematical communities who h
 ### Upcoming
 
 - February 14th, 2023: Ulrich Bauer and Vadim Lebovici
+- March 14th, 2023: Sylvain Douteau and René Corbet
 
 
 ### Format
