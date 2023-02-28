@@ -1,6 +1,6 @@
 ## 2022--2023
 
-- Mar 2023: Sylvain Douteau and René Corbet
+- [Mar 2023: Sylvain Douteau and René Corbet](#talk-2-6)
 - [Feb 2023: Ulrich Bauer and Vadim Lebovici](#talk-2-5)
 - [Jan 2023: Justin Curry and Abigail Hickok ](#talk-2-4)
 - [Dec 2022: Claudia Landi and Benedikt Fluhr](#talk-2-3)
@@ -21,6 +21,29 @@
 
 &nbsp;
 &nbsp;
+
+## March 14th, 2023 <a name="talk-2-6"></a>
+
+### Sylvain Douteau (Institut de recherche en informatique fondamentale, Paris Cité University, France)
+
+*Stratified homotopy theory*
+
+> Stratifications and stratified spaces first arised from the study of singular objects. In that context, a space is decomposed into strata corresponding to various degrees of singularity. Nowadays, stratifications - and stratified spaces - are defined much more broadly, as a sort of generalized filtration on spaces, which is used to encode some structure, that may or may not be related to singularities.
+>
+>Based on that general point of view, stratified homotopy theory tries to offer a homotopy theoretic description of the spaces carrying a stratification, while retaining homotopy theoretic information about the stratifications themselves. In my talk, I will explain how to construct several Quillen-equivalent model categories for the homotopy theory of stratified spaces, and present a particularly nice model for the homotopy category of stratified spaces : the category of labelled CW-complexes.
+
+
+### René Corbet (KTH, Stockholm, Sweden)
+ 
+*A computational perspective on noise systems and stable rank*
+
+>Noise systems, as introduced by Scolamerio et al., give a rich framework for the construction of distances in one- and multiparameter persistence. When used together with hierarchical stabilization, as introduced by Gäfvert and Chachólski, we get stable invariants. A main example of hierarchical stabilization is stable rank: given a distance, for every ball around a persistence module, we extract the minimum over the number of generators of those persistence modules that one can find in this neighborhood. In particular, stable rank is a non-increasing function suitable for machine learning algorithms.
+>
+>I will first give an incomplete survey on the successes of noise systems and stable rank in one-parameter persistence under the lens of computation and applications. This includes work by Agerberg, Chachólski, Guidolin, Riihimäki, Scolamiero, and Wehlin.
+>
+>Then we discuss challenges, partial success, and open questions in the case of multiparameter persistence. As shown by Gäfvert and Chachólski, the intricacy of the algebraic theory of multiparameter persistence yields that the problem of computing of stable rank for a standard noise system is algorithmic but NP-hard. In fact, even computing the shift-dimension is NP-hard.
+>We search for overcoming the computational challenges with approximation techniques relying on the computation of stable rank on interval modules. Given a simple noise system and an interval decomposable module, summing up stable rank summand-wise is guaranteed to be an upper bound of stable rank, but is neither guaranteed to be equal to stable rank, nor to be stable. Many questions can be asked: How well can we expect this additive version of stable rank to approximate original stable rank, in theory, and in practice? Does it make sense to consider a signed additive version for resolutions of persistence modules consisting of interval modules? How does the approximation of stable rank perform in applications? Do these techniques make sense for stable invariants other than stable rank?
+>This is based on joint work with Chachólski and Sattelberger, and on ongoing joint work with Scolamiero.
 
 ## February 14th, 2023 <a name="talk-2-5"></a>
 
