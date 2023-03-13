@@ -6,6 +6,9 @@ The aim of this seminar is to gather together the mathematical communities who h
 ### Upcoming
 
 - March 14th, 2023: Sylvain Douteau and René Corbet
+- April 11th, 2023: Steve Oudot and Daniel Perez 
+- May 9th, 2023: Ryan Grady and Michael Usher
+- June 13th, 2023: Nina Otter and TBA
 
 
 ### Format
