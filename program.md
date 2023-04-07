@@ -1,5 +1,6 @@
 ## 2022--2023
 
+- [Apr 2023: Steve Oudot and Daniel Perez](#talk-2-7)
 - [Mar 2023: Sylvain Douteau and René Corbet](#talk-2-6)
 - [Feb 2023: Ulrich Bauer and Vadim Lebovici](#talk-2-5)
 - [Jan 2023: Justin Curry and Abigail Hickok ](#talk-2-4)
@@ -21,6 +22,20 @@
 
 &nbsp;
 &nbsp;
+
+## April 11th, 2023 <a name="talk-2-7"></a>
+
+### Steve Oudot (Inria Saclay - Ile-de-France, France)
+
+*Signed rank decompositions for multi-parameter persistence: from Moebius inversion to relative homological algebra*
+
+>A question that comes up repeatedly in recent developments on multi-parameter persistence is to define mathematically sound and computationally tractable notions of approximation for multi-parameter persistence modules. As $\mathbb{R}^n$ is of wild representation type, one seeks to approximate arbitrary (say, finitely presentable) modules by modules coming from some subcategory that is easier to work with in practice. An obvious candidate subcategory is the one of interval-decomposable modules, whose summands are indicator modules of intervals (i.e. convex, connected subsets of $\mathbb{R}^n$, equipped with the product order). Indeed, interval-decomposable modules are convenient to work with, since they are easy to encode and manipulate on a computer, and to interpret visually. Several notions of module approximation using this subcategory have been proposed, among which the most common one seeks to preserve the rank invariant when switching from the original module to its interval-decomposable approximation. The motivation is that, the rank invariant being one of the weakest invariants available to us, preserving it is considered to be a minimum. As it turns out, this is not always possible, however one can always decompose the rank invariant of the module as a $\mathbb{Z}$-linear combination of rank invariants of interval modules. Thus, a weaker form of preservation of the rank invariant is possible, in which the interval summands are signed (hence the name "signed rank decomposition"). This fact can be viewed as a consequence of the Moebius inversion formula, but more fundamentally, it can be obtained by working in  the Grothendieck group relative to an appropriate exact structure, where the rank invariant of the module becomes equal to the alternating sum of the rank invariants of the various terms in the module's minimal relative projective resolution. This alternative proof strategy offers some significant benefits: (1) it links the coefficients in the decomposition to the structure of the module, as in the 1-parameter setting; (2) it provides a roadmap to study their bottleneck stability; (3) it connects multi-parameter persistence to relative homological algebra, thereby paving the way towards the definition of more refined invariants for multi-parameter persistence modules using larger classes of projectives. The purpose of my talk will be to tell this story.
+
+### Daniel Perez
+ 
+*Some topological properties of subgaussian fields on Riemannian manifolds*
+
+>We discuss some topological properties of the persistent homology of subgaussian fields on compact Riemannian manifolds. This class of processes have many desirable properties regarding the distribution of its the persistence diagrams. In particular, a stochastic stability theorem of persistence diagrams can be shown to hold for these processes. We will discuss an application of the results presented to Euler and Betti curves, and give some perspectives and outlook regarding these topics.
 
 ## March 14th, 2023 <a name="talk-2-6"></a>
 
