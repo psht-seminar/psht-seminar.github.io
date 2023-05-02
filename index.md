@@ -5,8 +5,7 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 ### Upcoming
 
-- April 11th, 2023: Steve Oudot and Daniel Perez 
-- May 9th, 2023: Ryan Grady and Michael Usher
+- May 9th, 2023: Michael Usher and Ryan Grady
 - June 13th, 2023: Nina Otter and TBA
 
 

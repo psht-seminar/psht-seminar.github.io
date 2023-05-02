@@ -1,5 +1,6 @@
 ## 2022--2023
 
+- [May 2023: Michael Usher and Ryan Grady](#talk-2-8)
 - [Apr 2023: Steve Oudot and Daniel Perez](#talk-2-7)
 - [Mar 2023: Sylvain Douteau and René Corbet](#talk-2-6)
 - [Feb 2023: Ulrich Bauer and Vadim Lebovici](#talk-2-5)
@@ -22,6 +23,22 @@
 
 &nbsp;
 &nbsp;
+
+## May 9th, 2023 <a name="talk-2-8"></a>
+
+### Michael Usher (University of Georgia, USA)
+
+*Abstract interlevel persistence for Morse-Novikov and Floer theory*
+
+>The persistence module given by the sublevel sets of a Morse function on a smooth manifold can be computed from the filtered Morse chain complex associated to the function. This adapts straightforwardly to certain contexts in symplectic geometry, with the filtered Morse complex replaced by the filtered Hamiltonian Floer complex; this viewpoint (in various guises) has a long and successful history.  In this talk we will describe the (two-parameter) persistence module given by the interlevel sets (preimages of general intervals) of a Morse function in terms of data related to Morse complexes, giving a flexible abstract formulation that again can be applied, inter alia, to Hamiltonian Floer theory. This includes situations in which the function becomes single-valued only after lifting to a covering space. 
+>The basic structure that we introduce, a "filtered matched pair," encodes data modeling the interaction of the homologies of sub- and superlevel sets of the function in a way reminiscent of the extended persistence of Cohen-Steiner, Edelsbrunner, and Harer.  Filtered matched pairs have associated barcodes that satisfy an abstract stability theorem.  In the presence of additional structure that abstracts Poincaré duality, the barcodes satisfy symmetry properties familiar from extended and interlevel persistence.
+
+### Ryan Grady (Montana State University, USA)
+
+*K-theory for persistence modules*
+
+>We compute the K-theory spectrum and resulting K-groups for multiparameter persistence modules valued in vector spaces or pointed sets. Our point of view is to write persistence modules as constructible cosheaves on a stratified parameter space and use exodromy to perform computations in terms of representations of the associated (combinatorial) entrance path categories.  We will discuss how many classical (additive) invariants define classes in the Grothendieck group $K_0$; which is a result known in many circles for at least 30 years.  We will then pivot and discuss the group $K_1$ and its relationship to automorphisms. We will finish by describing work in progress on explicit constructions of classes in $K_1$. Our talk is based on joint work with Anna Schenfisch.
+
 
 ## April 11th, 2023 <a name="talk-2-7"></a>
 
