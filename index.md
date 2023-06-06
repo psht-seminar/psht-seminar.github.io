@@ -5,8 +5,7 @@ The aim of this seminar is to gather together the mathematical communities who h
 
 ### Upcoming
 
-- May 9th, 2023: Michael Usher and Ryan Grady
-- June 13th, 2023: Nina Otter and TBA
+- June 13th, 2023: Nina Otter, and Kelly Maggs and Samuel Lavenir
 
 
 ### Format

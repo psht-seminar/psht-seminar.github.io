@@ -1,5 +1,6 @@
 ## 2022--2023
 
+- [Jun 2023: Nina Otter, and Kelly Maggs and Samuel Lavenir](#talk-2-9)
 - [May 2023: Michael Usher and Ryan Grady](#talk-2-8)
 - [Apr 2023: Steve Oudot and Daniel Perez](#talk-2-7)
 - [Mar 2023: Sylvain Douteau and René Corbet](#talk-2-6)
@@ -23,6 +24,22 @@
 
 &nbsp;
 &nbsp;
+
+
+## June 13th, 2023 <a name="talk-2-9"></a>
+
+### Nina Otter (Queen Mary University of London, UK)
+
+*TBA*
+
+
+### Kelly Maggs and Samuel Lavenir (EPFL, Lausanne, Switzerland)
+
+*Persistent Minimal Models in Rational Homotopy Theory*
+
+>Rational homotopy theory aims at studying homotopy types by disregarding the torsion phenomena that inevitably occur in homotopy theory. Its power comes from the ability to model homotopy types using algebraic invariants such as (differential graded) commutative algebras. The use of minimal models - as developed by Sullivan - benefits the theory by allowing explicit computations to be performed. 
+>
+>In this talk, we outline how the ideas of persistence can be applied to the context of rational homotopy theory. After describing how obstruction theory can be used to compute explicit minimal models for persistent (differential graded) commutative algebras, we will describe how this construction hints at the idea of a model structure on the category of persistent chain complexes. This structure is described by explicit sets of generating cofibrations with respect to which persistent minimal models become cell complexes. By transfer along free-forgetful adjunctions, we obtain cofibrantly generated model structures on various categories of persistent differential graded algebras.
 
 ## May 9th, 2023 <a name="talk-2-8"></a>
 
