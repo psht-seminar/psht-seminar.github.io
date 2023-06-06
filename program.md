@@ -30,7 +30,9 @@
 
 ### Nina Otter (Queen Mary University of London, UK)
 
-*TBA*
+*The (persistent) magnitude of a metric space*
+
+>Magnitude is an isometric invariant for metric spaces that was introduced by Leinster around 2010, and is currently the object of intense research, since it has been shown to encode many known invariants of metric spaces. Magnitude is related to persistent homology, and this relationship has opened a new area of investigation in both magnitude and persistence theory. In this talk I will give an overview of the two fields, and discuss invariants of persistence modules arising from this connection. This talk is partly based on joint work with Sara Kalisnik, Miguel O’Malley, Barbara Giunti, Lukas Waas and John Nolan.
 
 
 ### Kelly Maggs and Samuel Lavenir (EPFL, Lausanne, Switzerland)
